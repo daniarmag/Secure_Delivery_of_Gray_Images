@@ -8,10 +8,10 @@ How does it work?
 Preconditions:
 1. Alice and Bob agree on Curve parameters (Curve, G, n)
 2. Bob must give alice his public key B 
--> Using Merkle-Hellman: Encrypt “Aria private key” with Bob’s public key B + Signing message using ECDSA
-<- Verify message using ECDSA + Using Merkle-Hellman: Decrypt “Aria private key” with Bob’s private key
--> Using ARIA: Encrypt the photos using private key + Signing message using ECDSA
-<- Verify message using ECDSA + Using ARIA: Decrypt the message using  ARIA private key
+-> Using Merkle-Hellman: Encrypt “Aria private key” with Bob’s public key B + Signing message using ECDSA
+<- Verify message using ECDSA + Using Merkle-Hellman: Decrypt “Aria private key” with Bob’s private key
+-> Using ARIA: Encrypt the photos using private key + Signing message using ECDSA
+<- Verify message using ECDSA + Using ARIA: Decrypt the message using  ARIA private key
 
 ********************************************
 
