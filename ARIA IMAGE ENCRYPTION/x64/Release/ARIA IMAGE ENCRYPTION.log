@@ -1,0 +1,27 @@
+﻿  ECDSA.c
+C:\Study\crypto\ARIA IMAGE ENCRYPTION\ECDSA.c(76,11): warning C4244: 'return': conversion from 'dlong' to 'long', possible loss of data
+C:\Study\crypto\ARIA IMAGE ENCRYPTION\ECDSA.c(90,11): warning C4244: '=': conversion from 'dlong' to 'long', possible loss of data
+C:\Study\crypto\ARIA IMAGE ENCRYPTION\ECDSA.c(91,11): warning C4244: '=': conversion from 'dlong' to 'long', possible loss of data
+C:\Study\crypto\ARIA IMAGE ENCRYPTION\ECDSA.c(107,31): warning C4244: 'function': conversion from 'dlong' to 'long', possible loss of data
+C:\Study\crypto\ARIA IMAGE ENCRYPTION\ECDSA.c(107,39): warning C4244: 'function': conversion from 'dlong' to 'long', possible loss of data
+C:\Study\crypto\ARIA IMAGE ENCRYPTION\ECDSA.c(112,33): warning C4244: 'function': conversion from 'dlong' to 'long', possible loss of data
+C:\Study\crypto\ARIA IMAGE ENCRYPTION\ECDSA.c(112,41): warning C4244: 'function': conversion from 'dlong' to 'long', possible loss of data
+C:\Study\crypto\ARIA IMAGE ENCRYPTION\ECDSA.c(160,13): warning C4244: '=': conversion from 'dlong' to 'long', possible loss of data
+C:\Study\crypto\ARIA IMAGE ENCRYPTION\ECDSA.c(161,13): warning C4244: '=': conversion from 'dlong' to 'long', possible loss of data
+C:\Study\crypto\ARIA IMAGE ENCRYPTION\ECDSA.c(194,14): warning C4244: '=': conversion from 'dlong' to 'long', possible loss of data
+C:\Study\crypto\ARIA IMAGE ENCRYPTION\ECDSA.c(198,25): warning C4244: 'function': conversion from 'dlong' to 'long', possible loss of data
+C:\Study\crypto\ARIA IMAGE ENCRYPTION\ECDSA.c(199,11): warning C4244: '=': conversion from 'dlong' to 'long', possible loss of data
+C:\Study\crypto\ARIA IMAGE ENCRYPTION\ECDSA.c(224,22): warning C4244: 'function': conversion from 'dlong' to 'long', possible loss of data
+C:\Study\crypto\ARIA IMAGE ENCRYPTION\ECDSA.c(225,9): warning C4244: '=': conversion from 'dlong' to 'long', possible loss of data
+C:\Study\crypto\ARIA IMAGE ENCRYPTION\ECDSA.c(226,9): warning C4244: '=': conversion from 'dlong' to 'long', possible loss of data
+C:\Study\crypto\ARIA IMAGE ENCRYPTION\ECDSA.c(235,9): warning C4244: '=': conversion from 'dlong' to 'long', possible loss of data
+C:\Study\crypto\ARIA IMAGE ENCRYPTION\ECDSA.c(262,25): warning C4244: 'function': conversion from 'dlong' to 'long', possible loss of data
+C:\Study\crypto\ARIA IMAGE ENCRYPTION\ECDSA.c(277,9): warning C4244: '=': conversion from 'dlong' to 'long', possible loss of data
+C:\Study\crypto\ARIA IMAGE ENCRYPTION\ECDSA.c(305,25): warning C4244: 'function': conversion from 'dlong' to 'long', possible loss of data
+C:\Study\crypto\ARIA IMAGE ENCRYPTION\ECDSA.c(312,9): warning C4244: '=': conversion from 'dlong' to 'long', possible loss of data
+  Generating code
+  0 of 33 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ARIA IMAGE ENCRYPTION.vcxproj -> C:\Study\crypto\ARIA IMAGE ENCRYPTION\x64\Release\ARIA IMAGE ENCRYPTION.exe

@@ -1,0 +1,32 @@
+﻿  ARIA.c
+  ECDSA.c
+C:\Study\crypto\ARIA IMAGE ENCRYPTION\ECDSA.c(76,11): warning C4244: 'return': conversion from 'dlong' to 'long', possible loss of data
+C:\Study\crypto\ARIA IMAGE ENCRYPTION\ECDSA.c(90,11): warning C4244: '=': conversion from 'dlong' to 'long', possible loss of data
+C:\Study\crypto\ARIA IMAGE ENCRYPTION\ECDSA.c(91,11): warning C4244: '=': conversion from 'dlong' to 'long', possible loss of data
+C:\Study\crypto\ARIA IMAGE ENCRYPTION\ECDSA.c(107,31): warning C4244: 'function': conversion from 'dlong' to 'long', possible loss of data
+C:\Study\crypto\ARIA IMAGE ENCRYPTION\ECDSA.c(107,39): warning C4244: 'function': conversion from 'dlong' to 'long', possible loss of data
+C:\Study\crypto\ARIA IMAGE ENCRYPTION\ECDSA.c(112,33): warning C4244: 'function': conversion from 'dlong' to 'long', possible loss of data
+C:\Study\crypto\ARIA IMAGE ENCRYPTION\ECDSA.c(112,41): warning C4244: 'function': conversion from 'dlong' to 'long', possible loss of data
+C:\Study\crypto\ARIA IMAGE ENCRYPTION\ECDSA.c(160,13): warning C4244: '=': conversion from 'dlong' to 'long', possible loss of data
+C:\Study\crypto\ARIA IMAGE ENCRYPTION\ECDSA.c(161,13): warning C4244: '=': conversion from 'dlong' to 'long', possible loss of data
+C:\Study\crypto\ARIA IMAGE ENCRYPTION\ECDSA.c(194,14): warning C4244: '=': conversion from 'dlong' to 'long', possible loss of data
+C:\Study\crypto\ARIA IMAGE ENCRYPTION\ECDSA.c(198,25): warning C4244: 'function': conversion from 'dlong' to 'long', possible loss of data
+C:\Study\crypto\ARIA IMAGE ENCRYPTION\ECDSA.c(199,11): warning C4244: '=': conversion from 'dlong' to 'long', possible loss of data
+C:\Study\crypto\ARIA IMAGE ENCRYPTION\ECDSA.c(223,22): warning C4244: 'function': conversion from 'dlong' to 'long', possible loss of data
+C:\Study\crypto\ARIA IMAGE ENCRYPTION\ECDSA.c(224,9): warning C4244: '=': conversion from 'dlong' to 'long', possible loss of data
+C:\Study\crypto\ARIA IMAGE ENCRYPTION\ECDSA.c(225,9): warning C4244: '=': conversion from 'dlong' to 'long', possible loss of data
+C:\Study\crypto\ARIA IMAGE ENCRYPTION\ECDSA.c(234,9): warning C4244: '=': conversion from 'dlong' to 'long', possible loss of data
+C:\Study\crypto\ARIA IMAGE ENCRYPTION\ECDSA.c(261,25): warning C4244: 'function': conversion from 'dlong' to 'long', possible loss of data
+C:\Study\crypto\ARIA IMAGE ENCRYPTION\ECDSA.c(276,9): warning C4244: '=': conversion from 'dlong' to 'long', possible loss of data
+C:\Study\crypto\ARIA IMAGE ENCRYPTION\ECDSA.c(304,25): warning C4244: 'function': conversion from 'dlong' to 'long', possible loss of data
+C:\Study\crypto\ARIA IMAGE ENCRYPTION\ECDSA.c(311,9): warning C4244: '=': conversion from 'dlong' to 'long', possible loss of data
+  grayimage.c
+C:\Study\crypto\ARIA IMAGE ENCRYPTION\grayimage.c(67,38): warning C4133: 'function': incompatible types - from 'int [16]' to 'Byte *'
+C:\Study\crypto\ARIA IMAGE ENCRYPTION\grayimage.c(72,21): warning C4133: 'function': incompatible types - from 'int [16]' to 'Byte *'
+C:\Study\crypto\ARIA IMAGE ENCRYPTION\grayimage.c(100,11): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Study\crypto\ARIA IMAGE ENCRYPTION\grayimage.c(96,12): warning C4101: 'flag': unreferenced local variable
+  hash.c
+  knapsack.c
+  Generating Code...
+C:\Study\crypto\ARIA IMAGE ENCRYPTION\ECDSA.c(293): warning C4715: 'sign': not all control paths return a value
+  ARIA IMAGE ENCRYPTION.vcxproj -> C:\Study\crypto\ARIA IMAGE ENCRYPTION\x64\Debug\ARIA IMAGE ENCRYPTION.exe
